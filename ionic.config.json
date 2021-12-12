@@ -1,0 +1,7 @@
+{
+  "name": "myassistant",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "myassistant",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

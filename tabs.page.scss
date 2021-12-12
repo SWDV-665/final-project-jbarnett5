@@ -1,0 +1,11 @@
+ion-toggle::part(track) {
+    background: var(--ion-color-step-150);
+  }
+  
+  ion-toggle.toggle-checked::part(track) {
+    background: rgb(var(--ion-color-success-rgb), 0.5);
+  }
+  
+  ion-toggle::part(handle) {
+    background: #485394;
+  }
